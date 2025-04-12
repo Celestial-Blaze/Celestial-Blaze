@@ -1,5 +1,5 @@
 ![](https://github.com/Celestial-Blaze/Celestial-Blaze/blob/main/Fairy_Lights_Transparent.png)
-## About Me ##
+## About Me
 
 <!--
 **Celestial-Blaze/Celestial-Blaze** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -51,6 +51,6 @@
 
 Python shell: `import this`
 
-<!-- ## Stats ##
+## Stats ##
 
-![Celestial-Blaze's Streak](https://github-readme-streak-stats.herokuapp.com/?user=Celestial-Blaze&theme=material-palenight&hide_border=true) -->
+![Celestial-Blaze's Streak](https://github-readme-streak-stats.herokuapp.com/?user=Celestial-Blaze&theme=material-palenight&hide_border=true)
