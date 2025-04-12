@@ -1,4 +1,4 @@
-![Fairy Lights](/assets/images/Fairy_Lights_Transparent.png)
+![](https://github.com/Celestial-Blaze/Celestial-Blaze/blob/main/Fairy_Lights_Transparent.png)
 ## About Me ##
 
 <!--
