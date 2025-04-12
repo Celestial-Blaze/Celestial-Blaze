@@ -1,3 +1,4 @@
+![Fairy Lights](/assets/images/Fairy_Lights_Transparent.png)
 ## About Me ##
 
 <!--
