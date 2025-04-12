@@ -50,6 +50,6 @@
 
 Python shell: `import this`
 
-## Stats ##
+<!-- ## Stats ##
 
-![Celestial-Blaze's Streak](https://github-readme-streak-stats.herokuapp.com/?user=Celestial-Blaze&theme=material-palenight&hide_border=true)
+![Celestial-Blaze's Streak](https://github-readme-streak-stats.herokuapp.com/?user=Celestial-Blaze&theme=material-palenight&hide_border=true) -->
