@@ -27,9 +27,9 @@
 ![](https://img.shields.io/badge/JavaScript-%23d6a400?style=flat-square&logo=javascript&logoColor=white) <!-- JavaScript -->
 ![](https://img.shields.io/badge/Prolog-%230f548c?style=flat-square&logo=prolog&logoColor=white) <!-- Prolog -->
 ![](https://img.shields.io/badge/SML-%23a10224?style=flat-square&logo=sml&logoColor=white) <!-- SML -->
-![](https://img.shields.io/badge/PyCharm-darkgreen?style=flat-square&logo=pycharm) <!-- PyCharm -->
-![](https://img.shields.io/badge/IntelliJ-%23ed00c2?style=flat-square&logo=intellijidea) <!-- IntelliJ -->
-![](https://img.shields.io/badge/Rider-blue?style=flat-square&logo=rider) <!-- Rider -->
+![](https://img.shields.io/badge/PyCharm-%2308a14d?style=flat-square&logo=pycharm) <!-- PyCharm -->
+![](https://img.shields.io/badge/IntelliJ-blue?style=flat-square&logo=intellijidea) <!-- IntelliJ -->
+![](https://img.shields.io/badge/Rider-%23e01b6a?style=flat-square&logo=rider) <!-- Rider -->
 ![](https://img.shields.io/badge/Eclipse%20IDE-%23281a66?style=flat-square&logo=eclipseide&logoColor=white) <!-- Eclipse IDE -->
 ![](https://img.shields.io/badge/HTML-orange?style=flat-square&logo=html5&logoColor=white) <!-- HTML -->
 ![](https://img.shields.io/badge/PHP-%23686b9c?style=flat-square&logo=php&logoColor=white) <!-- PHP -->
