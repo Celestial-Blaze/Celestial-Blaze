@@ -53,6 +53,6 @@ Python shell: `import this`
 
 ## Stats ##
 
-<!-- ![Celestial-Blaze's Streak](https://github-readme-streak-stats.herokuapp.com/?user=Celestial-Blaze&theme=material-palenight&hide_border=true) -->
+![celestial-blaze's Streak](https://github-readme-streak-stats.herokuapp.com/?user=celestial-blaze&theme=material-palenight&hide_border=true)
 ![Celestial-Blaze's Stats](https://github-readme-stats.vercel.app/api?username=Celestial-Blaze&theme=material-palenight&show_icons=true&hide_border=true&count_private=true)
-![Celestial-Blaze's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Celestial-Blaze&theme=material-palenight&show_icons=true&hide_border=true&layout=compact)
+![celestial-blaze's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=celestial-blaze&theme=material-palenight&show_icons=true&hide_border=true&layout=compact)
