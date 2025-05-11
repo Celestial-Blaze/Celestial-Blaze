@@ -51,7 +51,7 @@
 
 Python shell: `import this`
 
-Check out this escape room style puzzle game I made with my Software Engineering team: ![The Turing Trap](https://rollread.itch.io/the-turing-trap)
+Check out this escape room style puzzle game I made with my Software Engineering team: [The Turing Trap](https://rollread.itch.io/the-turing-trap)
 
 ## Stats ##
 
