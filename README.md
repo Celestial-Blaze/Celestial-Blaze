@@ -52,6 +52,7 @@
 Python shell: `import this`
 
 Check out this escape room style puzzle game I made with my Software Engineering team: [The Turing Trap](https://rollread.itch.io/the-turing-trap)
+Also check out this simulator I made to explain and test the physics of beyblades: [BeyPhysics Simulator](https://celestialblaze3000.itch.io/beyphysics-simulator)
 
 ## Stats ##
 
