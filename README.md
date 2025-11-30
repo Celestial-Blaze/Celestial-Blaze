@@ -6,8 +6,9 @@
 -->
 
 - 🎓 Studying Computer Science & Electrical Engineering
-- 🧩 Currently learning C for low-level computer systems
 - 🌟 I recently made a simulator to show & test the physics of Beyblades
+- 🔮 I make video games sometimes
+- 🧩 Currently excited to start Advent of Code once exams are done
 - 🐍 I'm a Pythonista, but I also enjoy learning esoteric programming languages
 - 💖 Graph theory is awesome (combinatorics too)
 
